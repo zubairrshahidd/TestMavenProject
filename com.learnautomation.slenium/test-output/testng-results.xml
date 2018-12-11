@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="50" started-at="2018-12-04T07:29:29Z" finished-at="2018-12-04T07:29:29Z">
+  <suite name="Default suite" duration-ms="43" started-at="2018-12-11T18:39:20Z" finished-at="2018-12-11T18:39:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="50" started-at="2018-12-04T07:29:29Z" finished-at="2018-12-04T07:29:29Z">
+    <test name="Default test" duration-ms="43" started-at="2018-12-11T18:39:20Z" finished-at="2018-12-11T18:39:20Z">
       <class name="com.learnautomation.slenium.DemoForMaven">
-        <test-method status="PASS" signature="DIV()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="DIV" duration-ms="16" started-at="2018-12-04T12:29:29Z" finished-at="2018-12-04T12:29:29Z">
+        <test-method status="PASS" signature="DIV()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="DIV" duration-ms="12" started-at="2018-12-11T23:39:20Z" finished-at="2018-12-11T23:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DIV -->
-        <test-method status="PASS" signature="Sub()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="Sub" duration-ms="2" started-at="2018-12-04T12:29:29Z" finished-at="2018-12-04T12:29:29Z">
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="Sub" duration-ms="2" started-at="2018-12-11T23:39:20Z" finished-at="2018-12-11T23:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sub -->
-        <test-method status="PASS" signature="Sum()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="Sum" duration-ms="5" started-at="2018-12-04T12:29:29Z" finished-at="2018-12-04T12:29:29Z">
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="Sum" duration-ms="1" started-at="2018-12-11T23:39:20Z" finished-at="2018-12-11T23:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sum -->
-        <test-method status="PASS" signature="testHello()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="testHello" duration-ms="3" started-at="2018-12-04T12:29:29Z" finished-at="2018-12-04T12:29:29Z">
+        <test-method status="PASS" signature="testHello()[pri:0, instance:com.learnautomation.slenium.DemoForMaven@1efbd816]" name="testHello" duration-ms="3" started-at="2018-12-11T23:39:20Z" finished-at="2018-12-11T23:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHello -->
